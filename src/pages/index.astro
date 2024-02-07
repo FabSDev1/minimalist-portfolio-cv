@@ -1,6 +1,10 @@
 ---
 import Layout from '../layouts/Layout.astro';
 
+import {basics} from '@cv'
+const {name} = basics
+const {label} = basics
+
 import Hero from '@/components/Sections/Hero.astro';
 import About from '@/components/Sections/About.astro';
 import Experience from '@/components/Sections/Experience.astro';
@@ -11,7 +15,7 @@ import Education from '@/components/Sections/Education.astro';
 import KeyBoardManager from '@/components/KeyBoardManager.astro';
 ---
 
-<Layout title="Minimalist Portfolio">
+<Layout title=`Portafolio de ${name} - ${label}`>
 	<main>
 		<Hero />
 		<About />
