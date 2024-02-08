@@ -1,66 +1,45 @@
 {
     "basics": {
-      "name": "Miguel Ángel Durán",
-      "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+      "name": "Fabricio Alexander Porras Morera",
+      "label": "Estudiante de Ingeniería de Software con enfásis a Full Stack developer",
       "image": "/me.webp",
-      "email": "miduga@gmail.com",
-      "phone": "+34 688888888",
-      "url": "https://midu.dev",
-      "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+      "email": "faporras05@hotmail.com",
+      "phone": "+506 83719375",
+      "url": "",
+      "summary": "Estudiante de Ingeniería de Software altamente motivado con una sólida base teórica y habilidades prácticas en el desarrollo de software. Apasionado por la resolución de problemas tecnológicos y comprometido con mantenerse actualizado en las últimas tendencias de la industria.",
       "location": {
         "address": "",
-        "postalCode": "08820",
-        "city": "el Prat de Llobregat",
-        "countryCode": "ES",
-        "region": "España"
+        "postalCode": "12012",
+        "city": "San Carlos",
+        "countryCode": "CR",
+        "region": "Costa Rica"
       },
       "profiles": [
         {
           "network": "LinkedIn",
-          "username": "midudev",
-          "url": "https://linkedin.com/in/midudev"
+          "username": "FabriSDev",
+          "url": "https://www.linkedin.com/in/fabricio-alexander-porras-morera-8380bb210/"
         },
         {
           "network": "X",
-          "username": "midudev",
-          "url": "https://x.com/midudev"
+          "username": "FabriSDev",
+          "url": "https://twitter.com/FabSDev1"
         },
         {
           "network": "GitHub",
-          "username": "midudev",
-          "url": "https://github.com/midudev"
+          "username": "FabriSDev",
+          "url": "https://github.com/FabSDev1"
         }
       ]
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
+        "name": "Instituto Tecnológico de Costa Rica",
+        "position": "Interno Full Stack Developer",
+        "url": "",
+        "startDate": "2024-02-01",
         "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-        "highlights": [
-          "Started the company"
-        ]
-      },
-      {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+        "summary": "Desarrollé un sistema completo de votaciones estudiantiles y una API para consumir la información. Escalé los servicios para soportar la carga en tiempo real de los votos recibidos.",
         "highlights": [
           "Started the company"
         ]
@@ -78,15 +57,15 @@
       ]
     }],
     "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
+      "institution": "Instituto Tecnológico de Costa Rica",
+      "url": "https://www.tec.ac.cr/",
       "area": "Ingeniero de Software",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
+      "startDate": "2021-02-08",
+      "endDate": null,
+      "score": null,
       "courses": [
-        "DB1101 - Basic SQL"
+        null
       ]
     }],
     "awards": [{
@@ -110,49 +89,77 @@
     }],
     "skills": [
       {
+        "name": "JavaScript",
+        "level": "Bajo",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Python",
+        "level": "Medio",
+        "keywords": [
+          "BI", "Machine Learning", "IA", "Analisis de Datos"
+        ]
+      },
+      {
         "name": "HTML",
-        "level": "Master",
+        "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend"
         ]
       },
       {
         "name": "CSS",
-        "level": "Master",
+        "level": "Medio",
         "keywords": [
           "Desarrollo Web", "Frontend", "Diseño Responsive"
         ]
       },
       {
-        "name": "JavaScript",
-        "level": "Master",
+        "name": "C++",
+        "level": "Medio",
         "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+          "OOP", "Pointers", "STL", "Function Overloading"
         ]
       },
       {
-        "name": "Tailwind",
-        "level": "Avanzado",
+        "name": "C#",
+        "level": "Medio",
         "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+          "OOP", "Delegates", "Async/Await", "Entity Framework"
+        ]
+      },
+      {
+        "name": "Java",
+        "level": "Medio",
+        "keywords": [
+          "OOP", "JVM", "Exception Handling", "JavaBeans"
+        ]
+      },
+      {
+        "name": "Astro",
+        "level": "Medio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Frontend Framework" , "Diseño Responsive"
         ]
       },
       {
         "name": "TypeScript",
-        "level": "Avanzado",
+        "level": "Bajo",
         "keywords": [
           "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
         ]
       },
       {
         "name": "Node",
-        "level": "Avanzado",
+        "level": "Medio",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
         ]
       },
       {
-        "name": "MySQL",
+        "name": "SQL Server",
         "level": "Avanzado",
         "keywords": [
           "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
@@ -174,16 +181,51 @@
       },
       {
         "name": "Next.js",
-        "level": "Avanzado",
+        "level": "Medio",
         "keywords": [
           "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
         ]
       },
       {
         "name": "React",
-        "level": "Avanzado",
+        "level": "Medio",
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "Kotlin",
+        "level": "Medio",
+        "keywords": [
+          "JVM", "Functional Programming", "Coroutines", "Android Development"
+        ]
+      },
+      {
+        "name": "Go",
+        "level": "Medio",
+        "keywords": [
+          "Concurrency", "Static Typing", "Goroutines", "Web Development"
+        ]
+      },
+      {
+        "name": "Postgresql",
+        "level": "Avanzado",
+        "keywords": [
+          "Relational Database", "SQL", "ACID Properties", "PL/pgSQL"
+        ]
+      },
+      {
+        "name": "F#",
+        "level": "Medio",
+        "keywords": [
+          "Functional Programming", "Type Inference", "Asynchronous Programming", ".NET"
+        ]
+      },
+      {
+        "name": "Figma",
+        "level": "Medio",
+        "keywords": [
+          "UI/UX Design", "Prototyping", "Collaborative Design", "Vector Editing"
         ]
       }
     ],
@@ -210,66 +252,46 @@
     }],
     "projects": [
       {
-        "name": "mars.codes",
+        "name": "Portfolio CV",
         "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "description": "Curriculum vitae con el estilo de un portafolio minimalista y con capacidad de interacción y impresión",
         "highlights": [
-          "Elige tu propia aventura",
+          "Formato imprimible",
           "En desarrollo"
         ],
-        "url": "https://mars.codes"
+        "url": ""
       },
       {
-        "name": "AdventJS",
+        "name": "Calendarización",
         "isActive": true,
-        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "description": "Sistema de registro y control de actividades pendientes",
         "highlights": [
-          "+1 millón de visitas",
+          "Interactividad",
           "Multidioma",
-          "JavaScript & TypeScript"
+          "Usabilidad"
         ],
-        "url": "https://adventjs.dev"
+        "url": ""
       },
       {
-        "name": "Codember",
+        "name": "Gestión Airbnb",
         "isActive": true,
-        "description": "Juego interactivo de programación con retos y secretos",
+        "description": "Página estática e informativa sobre propiedad de alquiler",
         "highlights": [
-          "+2000 usuarios activos",
-          "Retos para cualquier lenguaje"
+          "Información de calidad",
+          "+100 visitas mensuales"
         ],
-        "url": "https://codember.dev"
+        "url": ""
       },
       {
-        "name": "codi.link",
+        "name": "Proyecto de la asis",
         "isActive": true,
-        "description": "Playground de código HTML, CSS y JavaScript para compartir",
+        "description": "Sistema de votaciones estudiantiles para el colegio científico costarricense",
         "highlights": [
-          "100k visitas al mes",
-          "Desarrollado por la comunidad"
+          "Interactividad",
+          "Mejora para el colegio"
         ],
-        "url": "https://codi.link",
-        "github": "https://github.com/midudev/codi.link"
-      },
-      {
-        "name": "Pruebas Técnicas",
-        "isActive": true,
-        "description": "Lista de pruebas técnicas de empresas para practicar programación",
-        "highlights": [
-          "100% gratuito",
-          "+500 soluciones de la comunidad"
-        ],
-        "url": "https://pruebastecnicas.com",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "miduConf",
-        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-        "highlights": [
-          "+15k tickets repartidos",
-          "+50k espectadores en directo"
-        ],
-        "url": "https://miduconf.com"
+        "url": "",
+        "github": ""
       }
     ]
   }
